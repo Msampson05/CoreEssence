@@ -63,8 +63,14 @@ button {
 
 button:hover {
     background-color: #3a38;
-
 }
+    /*Nav Bar*/
+ .navbar{
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1)
+ }
+
+
+
 .navbar-light .navbar-nav .nav-link {
     padding: 0 20px;
     color: black;
@@ -251,4 +257,33 @@ body {
       width: 100%;
       display: block;
     }
+  }
+
+  /* Footer */
+  
+  footer {
+    background-color: #000;
+  }
+
+  footer h5{
+    color: greenyellow;
+    font-weight:700 ;
+    font-size: 1.2rem;
+  }
+
+  footer p{
+    color: greenyellow;
+  }
+
+  footer li{
+     padding-bottom: 4px;
+  }
+
+  footer li a{
+    font-size: 0.8rem;
+    color:antiquewhite
+  }
+
+  footer li a:hover{
+    color: #d8d8d8;
   }
