@@ -119,8 +119,48 @@ button:hover {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-  
 }
+
+ #new .one img {
+    width: 100%;
+    height: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+ }
+
+ #new .one .details{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    transition: 0.3 ease;
+ }
+
+ #new .one:hover .details {
+    cursor: pointer;
+    background-color: rgba(81, 236, 96, 0.479)
+ }
+ #new .one .details button {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    color: black;
+    background: none;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+    padding: 2.5px;
+    transform: translateY(70px);
+    transition: 0.3 ease;
+}
+
+#new .one .details button:hover{
+    color: rgb(252, 253, 252);
+    border-bottom: 1px solid rgb(252, 253, 252);
+}
+ 
 
 /* Login Page  */
 
