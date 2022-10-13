@@ -112,6 +112,36 @@ button:hover {
     background-image: url("strpolbg.png");
 }
 
+#insta {
+  background-image: url("igbg.png");
+  width: 100%;
+  height: 100vh;
+  background-size:cover;
+  background-position: top center;
+}
+.homebtn {
+  font-size:0.8rem;
+  font-weight:700;
+  outline: none;
+  border: none;
+  background-color: greenyellow;
+  color: black;
+  padding: 13px 30px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: 0.3s ease;
+}
+
+.homebtn:hover {
+  background-color: #3a38;
+
+}
+
+.store{
+  color: azure;
+}
+
+
 
 
  /* Product Page */
