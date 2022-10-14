@@ -1,6 +1,5 @@
-# coreessence
+# Coreessence
 # Core Essence Of Reality Website 
-==========================
 ## Core Essence is an art and awareness company.
 --------------------------
 This website was constructed for a capstone project. The purpose is to show understanding of basic html and css language. 
