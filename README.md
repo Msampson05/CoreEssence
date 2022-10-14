@@ -57,5 +57,7 @@ his:
 ```
 And to add an image, try this: 
 ![Image](assests/images/website%20screenshot.JPG "icon")
-![Image](assests/images/website%20screenshot1.JPG"icon")
+![Image][def]
 ![Image](assests/images/website%20screenshot2.JPG "icon")
+
+[def]: assests/images/website%20screenshot1.JPG"icon"
