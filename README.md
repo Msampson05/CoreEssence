@@ -1,9 +1,7 @@
 # coreessence
-# This is a Big Heading
-Core Essence Of Reality Website 
+# Core Essence Of Reality Website 
 ==========================
-## This is a Sub-heading
-Core Essence is an art and awareness company.
+## Core Essence is an art and awareness company.
 --------------------------
 This website was constructed for a capstone project. The purpose is to show understanding of basic html and css language. 
 I created core essence of reality, it is my mental health awareness instagram page that I transformed into an ecommerce website.
@@ -18,16 +16,7 @@ The pages include:
  * Login 
  * Checkout 
 
-You also can have numbered lists:
-4-19
- 1. HTML
- 2. CSS
- 3. JavaScript
-
-You can add links. For more information, click [here](https://en.wikipedia.org/wiki/Ma
-rkdown)
-If you want to add formatted code to markdown, use backticks before and after it like t
-his:
+This an interesting CSS that I wrote. It allows you to hover and create a color for your hover effect:
 ```
 .navbar{
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1)
@@ -59,3 +48,6 @@ And to add an image, try this:
 ![Image](assests/images/website%20screenshot.JPG "icon")
 ![Image](assests/images/website%20screenshot1.JPG "icon")
 ![Image](assests/images/website%20screenshot2.JPG "icon")
+![Image](assests/images/website%20screenshot3.JPG "icon")
+![Image](assests/images/website%20screenshot4.JPG "icon")
+![Image](assests/images/website%20screenshot5.JPG "icon")
